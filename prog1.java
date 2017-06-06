@@ -5,12 +5,12 @@ public class prog1
 {
 public static void main(String args[])
 {
-int s;
-if(s>0)
+int i;
+if(i>0)
 {
 Syste.out.println(" positive");
 }
-else if(s<0)
+else if(i<0)
 {
 System.out.println(" negative");
 }
